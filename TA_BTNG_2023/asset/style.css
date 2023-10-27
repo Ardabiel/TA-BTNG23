@@ -1,0 +1,14 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+.bg-light {
+    background-color: #edf4ff !important;
+}
+
+.bg-primary {
+    background-image: url('./img/header.jpg');
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: center;
+}
